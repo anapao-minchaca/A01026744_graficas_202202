@@ -1,0 +1,12 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 18.04.2011 15:03:47
+
+newmtl _10464_Asteroid_v1_max201010464_Asteroid_v1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	illum 1
+	Ka 1 1 1
+	Kd 1 1 1
+	map_Ka 10464_Asteroid_v1_diffuse.jpg
+	map_Kd 10464_Asteroid_v1_diffuse.jpg
